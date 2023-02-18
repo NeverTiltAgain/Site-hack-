@@ -1,2 +1,2 @@
-# Site.hack
+# Site-hack-
 Site for Hackaton
